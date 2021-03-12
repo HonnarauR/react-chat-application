@@ -5,6 +5,7 @@ Its build on top of [chatengine.io](https://chatengine.io/)
 
 ## Hosted link
 https://react-chat-application-honna.herokuapp.com/
+https://chat-application-honnaraju.netlify.ap
 
 In the project directory, you can run:
 
