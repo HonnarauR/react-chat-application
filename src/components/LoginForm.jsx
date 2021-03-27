@@ -44,6 +44,7 @@ const Modal = () => {
         
         </form>
         <h2 style={{color:'red'}}>{error}</h2>
+        <h4>If you dont have login credentials, Please use name: user123, password : user@123 for chekking my work.</h4>
       </div>
     </div>
 
